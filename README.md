@@ -1,1 +1,1 @@
-# cuanticaP1
+# cuanticaPracticas
